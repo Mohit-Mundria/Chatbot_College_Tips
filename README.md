@@ -19,6 +19,14 @@ Designed to help **parents and elderly people** navigate common technology tasks
 This chatbot uses a local LLaMA 3.2 model via **Ollama**, and interacts through a **Streamlit** frontend.  
 It explains tech concepts in **simple, human-friendly language** — perfect for your parents or grandparents.
 
+
+## 🙌 Author
+Made with ❤️ by Mohit Mundria
+## Note:
+This is a project given by College_Tips in my virtual Internship
+Helping parents and grandparents stay connected in the digital world.
+
+
 ---
 
 ## 🔧 Installation
@@ -44,10 +52,4 @@ streamlit run chatbot.py
 * LLaMA 3.2 model pulled
 
 * Streamlit and Requests libraries
-
-## 🙌 Author
-Made with ❤️ by Mohit Mundria
-## Note:
-This is a project given by College_Tips in my virtual Internship
-Helping parents and grandparents stay connected in the digital world.
 
