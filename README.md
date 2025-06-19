@@ -45,9 +45,9 @@ streamlit run chatbot.py
 
 * Streamlit and Requests libraries
 
-🙌 Author
+## 🙌 Author
 Made with ❤️ by Mohit Mundria
-# Note:
+## Note:
 This is a project given by College_Tips in my virtual Internship
 Helping parents and grandparents stay connected in the digital world.
 
